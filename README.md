@@ -1,0 +1,1 @@
+This is Staci's first git project!
